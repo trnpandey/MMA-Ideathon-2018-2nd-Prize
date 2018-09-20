@@ -1,0 +1,27 @@
+{
+  "name": "HackathonHindustanUnilever",
+  "version": "1.0.0",
+  "description": "A Restful API app for Ideathon",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jquery": "*",
+    "request": "*"
+	
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amitabh27"
+  },
+  "engines": {
+    "node": "6.11.4",
+    "npm": "3.10.10"
+  },
+  "author": "amitabh tiwari",
+  "license": "ISC"
+}
