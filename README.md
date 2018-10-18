@@ -67,4 +67,9 @@ Note: <hr>
 	Google Search APIs,Twitter APIs,Youtube APIs,Facebook Insight APIs.<br>
      
 
+Architecture of Recommendation Engine
+https://raw.githubusercontent.com/trnpandey/MMA-Ideathon-2018-2nd-Prize/master/UI/s1.jpg
+Architecture of E-commerce integration wizard
 
+
+Architecture of Analytical Dashboard for HUL
