@@ -68,7 +68,7 @@ Note: <hr>
      
 
 Architecture of Recommendation Engine
-https://raw.githubusercontent.com/trnpandey/MMA-Ideathon-2018-2nd-Prize/master/UI/s1.jpg
+![alt text](https://raw.githubusercontent.com/trnpandey/MMA-Ideathon-2018-2nd-Prize/master/UI/s1.jpg)
 Architecture of E-commerce integration wizard
 
 
