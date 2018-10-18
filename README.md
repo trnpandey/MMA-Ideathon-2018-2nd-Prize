@@ -69,7 +69,11 @@ Note: <hr>
 
 Architecture of Recommendation Engine
 ![alt text](https://raw.githubusercontent.com/trnpandey/MMA-Ideathon-2018-2nd-Prize/master/UI/s1.jpg)
-Architecture of E-commerce integration wizard
+![alt text](https://raw.githubusercontent.com/trnpandey/MMA-Ideathon-2018-2nd-Prize/master/UI/s2.jpg)
 
+Architecture of E-commerce integration wizard
+![alt text](https://raw.githubusercontent.com/trnpandey/MMA-Ideathon-2018-2nd-Prize/master/UI/s3.jpg)
 
 Architecture of Analytical Dashboard for HUL
+![alt text](https://raw.githubusercontent.com/trnpandey/MMA-Ideathon-2018-2nd-Prize/master/UI/s4.jpg)
+![alt text](https://raw.githubusercontent.com/trnpandey/MMA-Ideathon-2018-2nd-Prize/master/UI/s5.jpg)
